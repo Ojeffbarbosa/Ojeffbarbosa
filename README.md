@@ -3,14 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E4080A&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jefferson+Barbosa;I'm+21+years+old;I+am+from+Juazeirinho,+PB;I+study+Mathematics+at+UEPB;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ojeffersonbarbosa&show_icons=true&count_private=true&hide_border=true&title_color=E4080A&icon_color=E4080A&text_color=c9d1d9&bg_color=0d1117" alt="Jefferson Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojeffersonbarbosa&layout=compact&hide_border=true&title_color=E4080A&text_color=E4080A&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ojeffbarbosa&show_icons=true&count_private=true&hide_border=true&title_color=E4080A&icon_color=E4080A&text_color=c9d1d9&bg_color=0d1117" alt="Jefferson Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojeffbarbosa&layout=compact&hide_border=true&title_color=E4080A&text_color=E4080A&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ojeffersonbarbosa&bg_color=000000&color=E4080A&line=E4080A&point=E4080A&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ojeffersonbarbosa&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ojeffbarbosa&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 
