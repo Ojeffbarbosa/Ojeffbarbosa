@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojeffbarbosa&layout=compact&hide_border=true&title_color=E4080A&text_color=E4080A&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ojeffersonbarbosa&bg_color=000000&color=E4080A&line=E4080A&point=E4080A&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ojeffbarbosa&bg_color=000000&color=E4080A&line=E4080A&point=E4080A&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ojeffbarbosa&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -44,7 +44,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ojeffersonbarbosa}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ojeffbarbosa}/count.svg" /></p> 
 <br></div>
 
 
